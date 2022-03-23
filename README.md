@@ -1,4 +1,4 @@
-### Hi there 👋
+## 프론트엔드 개발자 이홍빈입니다. 😉
 
 <!--
 **Hong-been/Hong-been** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📍 My new 5 posts are...
+### 📍 최신 블로그 포스팅
 <!-- BLOG-POST-LIST:START -->
 - [tabindex적용해서 div에 outline 표시하기](https://velog.io/@awesome-hong/tabindex%EC%A0%81%EC%9A%A9%ED%95%B4%EC%84%9C-outline-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
 - [input submit에 debounce를 적용하여 서버와의 통신 최소화하기](https://velog.io/@awesome-hong/input-submit%EC%97%90-debounce%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EC%97%AC-%EC%84%9C%EB%B2%84%EC%99%80%EC%9D%98-%ED%86%B5%EC%8B%A0-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0)
