@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 📍 최신 블로그 포스팅
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [[vercel] 자동배포 환경 만들기](https://velog.io/@awesome-hong/vercel-%EC%9E%90%EB%8F%99%EB%B0%B0%ED%8F%AC-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [[vercel] fork한 레포 자동최신화 + vercel로 자동배포하기](https://velog.io/@awesome-hong/vercel-%EC%9E%90%EB%8F%99%EB%B0%B0%ED%8F%AC-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[Next.js] redux store hydrate 중복 저장 이슈](https://velog.io/@awesome-hong/Next.js-redux-store-hydrate-%EC%A4%91%EB%B3%B5-%EC%A0%80%EC%9E%A5-%EC%9D%B4%EC%8A%88)
 - [[Next.js] Vercel 배포 중 오류 해결하기](https://velog.io/@awesome-hong/Next.js-%EB%B0%B0%ED%8F%AC-%EC%A4%91-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [[웹 접근성] tabindex적용해서 div에 outline 표시하기](https://velog.io/@awesome-hong/tabindex%EC%A0%81%EC%9A%A9%ED%95%B4%EC%84%9C-outline-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
