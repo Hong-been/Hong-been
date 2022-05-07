@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 📍 최신 블로그 포스팅
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [300. Longest Increasing Subsequence](https://velog.io/@awesome-hong/300.-Longest-Increasing-Subsequence)
-- [673. Number of Longest Increasing Subsequence](https://velog.io/@awesome-hong/673.-Number-of-Longest-Increasing-Subsequence)
-- [139. Word Break](https://velog.io/@awesome-hong/139.-Word-Break)
-- [413. Arithmetic Slices](https://velog.io/@awesome-hong/413.-Arithmetic-Slices)
-- [5. Longest Palindromic Substring](https://velog.io/@awesome-hong/Longest-Palindromic-Substring)
+- [[JavaScript] 583. Delete Operation for Two Strings](https://velog.io/@awesome-hong/JavaScript-583.-Delete-Operation-for-Two-Strings)
+- [[JavaScript] 1143. Longest Common Subsequence](https://velog.io/@awesome-hong/JavaScript-1143.-Longest-Common-Subsequence)
+- [[JavaScript] 300. Longest Increasing Subsequence](https://velog.io/@awesome-hong/300.-Longest-Increasing-Subsequence)
+- [[JavaScript] 673. Number of Longest Increasing Subsequence](https://velog.io/@awesome-hong/673.-Number-of-Longest-Increasing-Subsequence)
+- [[JavaScript] 139. Word Break](https://velog.io/@awesome-hong/139.-Word-Break)
 <!-- BLOG-POST-LIST:END -->
