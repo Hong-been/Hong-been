@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 📍 최신 블로그 포스팅
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [[JavaScript] 155. Min Stack](https://velog.io/@awesome-hong/JavaScript-155.-Min-Stack)
 - [[JavaScript] 743. Network Delay Time](https://velog.io/@awesome-hong/743.-Network-Delay-Time)
 - [[JavaScript] 72. Edit Distance](https://velog.io/@awesome-hong/JavaScript-72.-Edit-Distance)
 - [[JavaScript] 583. Delete Operation for Two Strings](https://velog.io/@awesome-hong/JavaScript-583.-Delete-Operation-for-Two-Strings)
 - [[JavaScript] 1143. Longest Common Subsequence](https://velog.io/@awesome-hong/JavaScript-1143.-Longest-Common-Subsequence)
-- [[JavaScript] 300. Longest Increasing Subsequence](https://velog.io/@awesome-hong/300.-Longest-Increasing-Subsequence)
 <!-- BLOG-POST-LIST:END -->
