@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 📍 최신 블로그 포스팅
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [[React] 렌더링 최적화, 리팩토링으로 성능향상 시켜보자](https://velog.io/@awesome-hong/React-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9C%BC%EB%A1%9C-%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81-%EC%8B%9C%EC%BC%9C%EB%B3%B4%EC%9E%90)
+- [[React] 렌더링 최적화, 리팩토링으로 성능향상🎯 시켜보자](https://velog.io/@awesome-hong/React-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9C%BC%EB%A1%9C-%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81-%EC%8B%9C%EC%BC%9C%EB%B3%B4%EC%9E%90)
 - [[HTTP] Options 요청은 뭘까?](https://velog.io/@awesome-hong/HTTP-Options-%EC%9A%94%EC%B2%AD%EC%9D%80-%EB%AD%98%EA%B9%8C)
 - [응집도있는 컴포넌트 설계란?](https://velog.io/@awesome-hong/%EC%9D%91%EC%A7%91%EB%8F%84%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%EB%9E%80)
 - [[JavaScript] Tower of Hanoi](https://velog.io/@awesome-hong/JavaScript-Tower-of-Hanoi)
