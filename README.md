@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ---
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
-[기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [[Next.js] Vercel 배포 중 오류 해결하기 2 - Client_fetch_error](https://velog.io/@awesome-hong/vercel)
@@ -39,3 +38,4 @@ Here are some ideas to get you started:
 - [[HTTP] Options 요청은 뭘까?](https://velog.io/@awesome-hong/HTTP-Options-%EC%9A%94%EC%B2%AD%EC%9D%80-%EB%AD%98%EA%B9%8C)
 - [응집도있는 컴포넌트 설계란?](https://velog.io/@awesome-hong/%EC%9D%91%EC%A7%91%EB%8F%84%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%EB%9E%80)
 <!-- BLOG-POST-LIST:END -->
+[기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
