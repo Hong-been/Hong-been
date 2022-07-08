@@ -1,12 +1,24 @@
-## 프론트엔드 개발자 이홍빈입니다. 😉
+
+## 사용자 경험 개선에 관심이 많은 프론트엔드 개발자 이홍빈입니다.
+
+<br>
+
+### 🎯 최근 집중하는 기술스택은 
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=TypeScript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
+  <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white">
+</div>
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-been)](https://github.com/anuraghazra/github-readme-stats)
 **Hong-been/Hong-been** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Testing Tools
+- 🔭 I’m currently learning Refactoring
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📍 최신 블로그 포스팅
+---
+
+### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
+➡️ [기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [[Next.js] Vercel 배포 중 오류 해결하기 2 - Client_fetch_error](https://velog.io/@awesome-hong/vercel)
