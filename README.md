@@ -1,8 +1,5 @@
 
 ## 사용자 경험 개선에 관심이 많은 프론트엔드 개발자 이홍빈입니다.
-
-<br>
-
 ### 🎯 최근 집중하는 기술스택은 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=TypeScript&logoColor=black">
