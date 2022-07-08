@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
-➡️ [기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
+[기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [[Next.js] Vercel 배포 중 오류 해결하기 2 - Client_fetch_error](https://velog.io/@awesome-hong/vercel)
