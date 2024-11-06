@@ -13,4 +13,4 @@ jobs:
         with:
           feed_list: "https://thoughtprovo-king.tistory.com/rss"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-          accept: "text/xml"
+          accept_header: "text/xml"
