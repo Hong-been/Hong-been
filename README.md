@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - [한 번 돌아보기](https://thoughtprovo-king.tistory.com/107)
 - [Issue 템플릿 작성하기&lpar;라벨, 할당자, 타이틀 자동 설정, 오픈소스 참고&rpar;](https://thoughtprovo-king.tistory.com/105)
 <!-- BLOG-POST-LIST:END -->
-[기술 블로그 구경가기](https://velog.io/@awesome-hong)  🏃🏻‍♀️💨
+[기술 블로그 구경가기](https://thoughtprovo-king.tistory.com)  🏃🏻‍♀️💨
+* [과거 기술 블로그](https://velog.io/@awesome-hong)에서 이전하였습니다.
