@@ -1,12 +1,31 @@
 
-## 프론트엔드 개발자 이홍빈입니다.
-### 최근 집중하는 기술스택은 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=TypeScript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
-  <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white">
-</div>
+## T자형 성장을 바라보는 프론트엔드 개발자 이홍빈입니다.
+
+- 👯 시도해보면서 적절한 방식을 찾아나가는 스타일입니다.
+- 🎯 타인에게 자신있게 권할 수 있는 제품을 만드는 것을 목표로 하고 있습니다.
+- ☕️ 커피챗, 메일링 등 제 경험을 나눌 수 있다면 언제든 환영합니다.
+- 📫 ghdqlsdl9633@gmail.com
+
+<br/>
+
+### 능숙한 기술 스택은 
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+  [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#)
+  [![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
+  [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+
+### 최근 뻗어나가는 기술 스택은
+
+  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+  [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+  [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-been)](https://github.com/anuraghazra/github-readme-stats)
