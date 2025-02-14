@@ -24,8 +24,8 @@
 ### 최근 뻗어나가는 기술 스택은
 
   [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
   [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+  [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
   [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
 <!--
