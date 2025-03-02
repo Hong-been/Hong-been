@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [개발자의 성장: 경험의 가치와 새로운 도전의 균형](https://thoughtprovo-king.tistory.com/120)
 - [&lpar;작성중&rpar; [RN] 소켓 통신으로 채팅 기능만들기](https://thoughtprovo-king.tistory.com/119)
 - [웹 성능 최적화 과정 - Nextjs Image, Script 태그 잘 사용하기](https://thoughtprovo-king.tistory.com/118)
 - [웹 성능 최적화에 앞서 알아야할 내용](https://thoughtprovo-king.tistory.com/117)
 - [2024 회고 - 경력 면접과 커피챗, 번아웃과 취미 , 체력관리, 재태크](https://thoughtprovo-king.tistory.com/116)
-- [Nestjs 에러 로깅](https://thoughtprovo-king.tistory.com/115)
 <!-- BLOG-POST-LIST:END -->
 [기술 블로그 구경가기](https://thoughtprovo-king.tistory.com)  🏃🏻‍♀️💨
 * [과거 기술 블로그](https://velog.io/@awesome-hong)에서 이전하였습니다.
